@@ -40,4 +40,4 @@ Cauldron Once A recipe has been completed![[Pasted image 20250829025432.png]]
 > 9. Generator Potion: Diesel, 1 [[Jerry Can]].
 > 10.  Midas Potion: 4 Drops of molten gold.
 > 11. Nausea Potion: Alien egg goo, Hagfish Slime.
-> 12. Memory leak Potion: P███F████M██.
+> 12. Memory leak Potion: Planter, Fishing rod, Homunculus.
